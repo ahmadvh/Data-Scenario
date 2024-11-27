@@ -7,9 +7,8 @@
 ## **What You’ll Find Here**
 - **Real-Life Scenarios**: Each project is based on practical challenges inspired by real-world data problems.
 - **Hands-On Tutorials**: Follow along with clear instructions to develop solutions step by step.
-- **Exercises and Challenges**: Test your skills with curated exercises that reinforce your learning.
+- **Exercises and Challenges**: Test your skills with hands-on exercises that reinforce your learning.
 - **YouTube Integration**: Watch the associated YouTube tutorials for each scenario on the [Data Scenarios Playlist](https://www.youtube.com/playlist?list=PLgYONms4SxY3lkSrcN3Q9YoVCyLXuHkrT).
-- 
 ---
 
 ## **How to Use This Repository**
