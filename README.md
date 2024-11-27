@@ -16,7 +16,7 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/Data-Scenario.git
+   git clone https://github.com/ahmadvh/Data-Scenario.git
    ```
 2. **Follow Along**
 Each folder contains a detailed README and the datasets you need to solve the scenario alongside the instructor.
