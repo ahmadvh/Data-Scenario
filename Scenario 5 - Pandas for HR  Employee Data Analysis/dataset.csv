@@ -1,0 +1,11 @@
+ID,Name,Age,Salary,Department,Joining_Date,Performance_Score
+1,Alice,25,50000,HR,2020-01-15,3
+2,Bob,30,60000,IT,2018-03-20,5
+3,Charlie,35,70000,Finance,2019-07-10,4
+4,David,40,80000,IT,2017-06-05,2
+5,Eve,29,55000,HR,2021-08-25,3
+6,Frank,33,65000,Finance,2016-09-30,5
+7,Grace,31,62000,IT,2022-05-15,4
+8,Hannah,27,58000,HR,2020-11-22,3
+9,Ivy,36,72000,Finance,2019-12-19,5
+10,Jack,28,53000,IT,2018-04-14,2
