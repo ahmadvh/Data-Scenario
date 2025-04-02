@@ -1,4 +1,4 @@
-# **Data Scenario #10: Viral Hashtags and Platform Trends with Pandas**
+# **Data Scenario #9: Viral Hashtags and Platform Trends with Pandas**
 
 Welcome to another Data Scenario! In this project, you’ll take on the role of a data scientist at a digital marketing agency, using social media data to decode what makes content go viral. 📲📈
 

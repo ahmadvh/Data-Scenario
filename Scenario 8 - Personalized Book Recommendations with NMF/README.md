@@ -1,4 +1,4 @@
-# **Data Scenario #7: Personalized Book Recommendations with NMF**
+# **Data Scenario #8: Personalized Book Recommendations with NMF**
 
 Welcome to another Data Scenario! In this project, we’ll step into the shoes of a data scientist tasked with building a personalized recommendation engine for a growing online bookstore. 📚🎯
 
