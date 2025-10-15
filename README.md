@@ -2,6 +2,10 @@
 
 **Data-Scenario** is a repository designed to help professionals and students master data science by solving real-world problems. Each project in this repository is built around a realistic scenario, guiding you step-by-step through the process of tackling complex challenges using various data science techniques.
 
+**AI-Generated Tutorials**
+
+All course videos in this repository are created using Agentic AI technology powered by OrangeBrackets.com
+ — an intelligent system that transforms Jupyter Notebooks and course materials into narrated, instructor-style video tutorials.
 ---
 
 ## **What You’ll Find Here**
